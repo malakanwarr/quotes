@@ -1,16 +1,50 @@
-# quotes
+# 📚 Quotes App
 
-A new Flutter project.
+A clean and simple Flutter app that displays a list of inspiring quotes. Users can view, enjoy, and delete quotes in real-time using a smooth Flutter UI.
 
-## Getting Started
+NOTE: 
+GitHub language stats may incorrectly list C++ or CMake due to native iOS/Android files. The core of this project is written in Dart using Flutter.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📋 List of hardcoded quotes
+- 🗑️ Delete any quote from the list
+- ✨ Beautiful UI built with Flutter's Material Design
+- 📱 Runs on iOS and Android simulators/devices
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+
+- **Flutter**
+- **Dart**
+
+---
+##🧠 What I Learned
+Stateless vs Stateful widgets
+
+Passing functions as parameters
+
+Custom Dart classes
+
+Hot reload & real-time UI updates
+
+
+## 📸 Screenshot
+
+<img src="https://github.com/user-attachments/assets/357d0a19-d446-4408-bcd2-4e986b41f0b0" width="300" />
+
+
+---
+
+## 📂 Folder Structure
+
+```bash
+lib/
+├── main.dart        # Entry point
+└── quote.dart       # Quote model & template
+
+
+
