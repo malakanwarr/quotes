@@ -34,7 +34,9 @@ Hot reload & real-time UI updates
 
 ## 📸 Screenshot
 
-<img src="https://github.com/user-attachments/assets/357d0a19-d446-4408-bcd2-4e986b41f0b0" width="300" />
+<img src="https://github.com/user-attachments/assets/e22f7fb1-6001-4095-ad4d-f4b4211367ba" width="300" />
+
+
 
 
 ---
